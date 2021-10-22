@@ -4,7 +4,9 @@ Starter guide for setting up a crypto digital wallet and navigating the NFT spac
 
 <h3>What's an NFT?? </h3>
 
-[NFTs](https://medium.com/r/?url=https%3A%2F%2Fopensea.io%2Fblog%2Fguides%2Fnon-fungible-tokens) are non-fungible tokens. You might be wondering what the heck are non-fungible tokens and is that even a word? Understanding what NFTs are is the first step on your journey. <b>"Non-fungible"</b> means that an item is unique and cannot be replaced with something else. Since the name is so long, we use <b>NFT</b>. Got it?
+[NFTs](https://medium.com/r/?url=https%3A%2F%2Fopensea.io%2Fblog%2Fguides%2Fnon-fungible-tokens) are non-fungible tokens. You might be wondering what the heck are non-fungible tokens and is that even a word? 
+
+Understanding what NFTs are is the first step on your journey. <b>"Non-fungible"</b> means that an item is unique and cannot be replaced with something else. Since the name is so long, we use <b>NFT</b>. Got it?
 
 NFTs in itself are a unique token (or in tech terms a long number or string) that is associated with some kind of media: Art, Gifs, JPGs, Video, Collectibles, Avatars, Music.
 
@@ -15,8 +17,6 @@ Companies such as Tik Tok, Twitter and Facebook are also moving into the space, 
 <h3>Before You Continue</h3>
 
 I'm not here to give you any investment advice, however with a little time and patience (and of course reading) you'll be well on your way to understanding what NFT's are all about. Think of it as buying a pair of expensive sneakers, but instead you're investing that $300 in crypto or an NFT. 
-
-I've also decided not to scale down images in this guide.
 
 ---
 <h2>Get Started 📎</h2>
