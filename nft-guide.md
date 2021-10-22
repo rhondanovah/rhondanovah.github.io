@@ -47,15 +47,14 @@ Ethereum is a blockchain platform with its own cryptocurrency, called Ether (ETH
 
 It's important to understand the value of Ethereum and what it translates to in USD. Markets change. The value of an ETH today may not be the same tomorrow. When making purchases that require ETH for example:
 
-1 Eth = $4,112.76<p>
-0.02 Eth = $82.26<p>
-0.07 Eth = $287.89<p>
+1 Eth = $4,112.76</p>
+0.02 Eth = $82.26</p>
+0.07 Eth = $287.89</p>
   
 Search Ethereum conversion via Google:
   
 ![](https://cdn-images-1.medium.com/max/1200/1*-wTf9ahxUnvSWcZIptS9OA.png)
   
-<p align="center"><https://cdn-images-1.medium.com/max/1200/1*-wTf9ahxUnvSWcZIptS9OA.png" width="800" height="400"></p>  
 
 ---
 
@@ -72,7 +71,7 @@ Once you're set up you should see the following:
 
 ![](https://cdn-images-1.medium.com/max/1200/0*FJoJWj-yc1OcCJY8.jpg)
 
-**❗️ When you sign up for Metamask it is important that you do not share or lose your SEED PHRASE and PASSWORD! Sharing your Metamask seed phrase or password to anyone will allow access to your assets and NFTs. Keep them both in a secure place ❗️**
+**❗️ NOTE: When you sign up for Metamask it is important that you do not share or lose your SEED PHRASE and PASSWORD! Sharing your Metamask seed phrase or password to anyone will allow access to your assets and NFTs. Keep them both in a secure place ❗️**
 
 Each Metamask wallet comes with it's own unique address. You'll use **this** address when sending ETH from Coinbase to your Metamask wallet. More on addresses and viewing your account details [here](https://metamask.zendesk.com/hc/en-us/articles/360015488791-How-to-view-your-account-details-public-address).
 
