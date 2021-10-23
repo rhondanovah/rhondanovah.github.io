@@ -1,6 +1,6 @@
 <h2>Introduction 👋</h2>
 
-Starter guide for setting up a crypto digital wallet and navigating the NFT space.I am a guide for beginners on setting up a digital wallet and navigating the NFT space. 
+Starter guide for setting up a crypto digital wallet and navigating the NFT space.
 
 <h3>What's an NFT?? </h3>
 
