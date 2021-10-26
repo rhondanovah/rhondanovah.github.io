@@ -115,7 +115,8 @@ This gas fee is priced in small fractions of the cryptocurrency Ether (ETH) that
 More on [Gas Fees](https://www.investorsobserver.com/news/featured/what-the-heck-is-ethereums-gas-fee-and-why-is-it-necessary)
 
 You can also track gas on Etherscan before you decide to make a purchase or sell. The lower the gas, lower the fee. Always try to avoid high gas.
-https://etherscan.io/gastracker
+
+<https://etherscan.io/gastracker>
 
 ![](https://cdn-images-1.medium.com/max/1200/1*_hLvYWHfQlJg5xIbu4LqWQ.png)
 
