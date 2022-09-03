@@ -7,6 +7,6 @@
 
 Take a close look at the **clouds** more often. Clouds in the sky very much resemble the thoughts in our minds.
 
-##
+
 Artist: Rhonda Novah</br>
 Available on [OpenSea](https://opensea.io/collection/wearethesky)
